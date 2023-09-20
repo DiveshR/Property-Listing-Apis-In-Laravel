@@ -1,0 +1,11 @@
+1)
+"repositories": [
+    {
+        "type": "composer",
+        "url": "https://nova.laravel.com"
+    }
+],
+after "require-dev": {}
+
+2) "laravel/nova": "~4.0"
+3) composer update --prefer-dist
